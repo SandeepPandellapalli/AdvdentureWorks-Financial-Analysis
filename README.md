@@ -92,11 +92,6 @@ The analysis conducted through the PowerBI dashboard revealed significant insigh
 - **Product Preferences:** Accessories and Bikes dominated the orders, indicating strong market preferences. Conversely, high return rates for products like the Sport-100 Helmets hinted at quality or customer satisfaction issues.
 - **Emerging Challenges:** A recent dip in revenue and orders, coupled with an increase in returns, especially for Tires and Tubes, highlighted potential issues in product fit or customer expectations.
 
-### Visual Insights
-Incorporated screenshots from the dashboard provide a visual summary of these findings:
-![Customer Insights Dashboard](url-to-customer-insights-dashboard-image)
-![Sales Dynamics Dashboard](url-to-sales-dynamics-dashboard-image)
-
 ## Challenges Encountered and Solutions
 
 During the development of the PowerBI dashboard, several challenges were faced, particularly in creating dynamic measures that accurately reflect business performance:
