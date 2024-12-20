@@ -54,6 +54,9 @@ After initial preprocessing, data was organized by creating an Entity-Relationsh
 - Utilized a snowflake schema to establish a structured relational schema connecting various lookup tables.
 - Enhanced the capability of the PowerBI dashboard to provide integrated and actionable business insights by linking tables according to their relationships and constraints.
 
+![Data Model](https://github.com/SandeepPandellapalli/AdvdentureWorks-Financial-Analysis/blob/504f5a4c0a92b40070715a5fc146a91abed82ef9/EER.jpeg)
+
+
 ### 3. Calculated Fields and Measures with DAX
 Dynamic measures crafted using Data Analysis Expressions (DAX) included:
 
