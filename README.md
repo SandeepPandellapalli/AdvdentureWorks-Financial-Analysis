@@ -3,6 +3,8 @@ Enhancing Strategic Decision-Making Through Advanced Data Analytics at Adventure
 
 # Project Overview: AdventureWorks Sales and Operations Dashboard
 
+![Dashboard Visualization](Pic 1.jpg)
+
 ## Problem Statement
 At AdventureWorks, we identified key operational challenges through an extensive examination of our database, including sales performance, customer behavior, product returns, and inventory management. This project, using PowerBI, targets these critical areas to optimize business operations and enhance decision-making capabilities.
 
