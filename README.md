@@ -71,6 +71,13 @@ Focus on constructing dynamic and interactive reports within PowerBI:
 - Implemented advanced features such as bookmarks, drill-through filters, tooltips to enhance the dashboard's interactivity.
 - The visualization strategy was designed to ensure clear communication of data through structured, clean, and organized visual layouts.
 
+![Map](https://github.com/SandeepPandellapalli/AdvdentureWorks-Financial-Analysis/blob/01107b8130cceb42555bf770bebbacefd304738b/tempImagegZ26Q2.jpeg)
+
+![Product Detail](https://github.com/SandeepPandellapalli/AdvdentureWorks-Financial-Analysis/blob/01107b8130cceb42555bf770bebbacefd304738b/tempImageYJzEm5.jpeg)
+
+![Customer Detail](https://github.com/SandeepPandellapalli/AdvdentureWorks-Financial-Analysis/blob/01107b8130cceb42555bf770bebbacefd304738b/tempImageCrE5cJ.jpeg)
+
+
 ## Discoveries and Insights from the Data
 
 The analysis conducted through the PowerBI dashboard revealed significant insights into customer demographics, buying patterns, and sales performance at AdventureWorks:
