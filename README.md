@@ -1,7 +1,7 @@
 # AdvdentureWorks-Financial-Analysis
 Enhancing Strategic Decision-Making Through Advanced Data Analytics at AdventureWorks
 
-# Project Overview: AdventureWorks Sales and Operations Dashboard
+## Project Overview: AdventureWorks Sales and Operations Dashboard
 
 ![Dashboard Visualization](https://github.com/SandeepPandellapalli/AdvdentureWorks-Financial-Analysis/blob/9c7d06fde333352178242e4fe3f391f3ab6e7fc1/Pic%201%20.jpg)
 
