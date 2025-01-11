@@ -6,7 +6,7 @@ Enhancing Strategic Decision-Making Through Advanced Data Analytics at Adventure
 ![Dashboard Visualization](https://github.com/SandeepPandellapalli/AdvdentureWorks-Financial-Analysis/blob/9c7d06fde333352178242e4fe3f391f3ab6e7fc1/Pic%201%20.jpg)
 
 ## Problem Statement
-At AdventureWorks, we identified key operational challenges through an extensive examination of our database, including sales performance, customer behavior, product returns, and inventory management. This project, using PowerBI, targets these critical areas to optimize business operations and enhance decision-making capabilities.
+At AdventureWorks, we identified key operational challenges through an extensive examination of our database, including sales performance, customer behavior, product returns, and inventory management. This project, using PowerBI, targets these critical areas to optimize business operations and enhance decision-making capabilities
 
 ## Objectives
 - **Sales Performance Analysis:** Evaluate and refine sales strategies to boost revenue.
